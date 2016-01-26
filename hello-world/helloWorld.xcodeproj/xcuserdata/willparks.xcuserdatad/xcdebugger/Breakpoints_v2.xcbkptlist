@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WordCount.swift"
+            timestampString = "475289159.601561"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "count()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoneNumberTest.swift"
+            timestampString = "475384589.80149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "testPrettyPrint()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.PhoneNumberTest.testPrettyPrint (helloWorldTest.PhoneNumberTest)() -&gt; ()"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/PhoneNumberTest.swift"
+                  timestampString = "475384539.920275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "234">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.PhoneNumberTest.(testPrettyPrint (helloWorldTest.PhoneNumberTest) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/PhoneNumberTest.swift"
+                  timestampString = "475384539.92109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.PhoneNumberTest.(testPrettyPrint (helloWorldTest.PhoneNumberTest) -&gt; () -&gt; ()).(implicit closure #2)"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/PhoneNumberTest.swift"
+                  timestampString = "475384539.921667"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../meetup/Meetup.swift"
+            timestampString = "475523963.283412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getDayOfWeek(_:from:to:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
