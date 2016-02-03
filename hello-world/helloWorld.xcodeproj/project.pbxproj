@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4852DB911C6271CA00679E4F /* TriangleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB901C6271CA00679E4F /* TriangleTest.swift */; };
+		4852DB931C6271D700679E4F /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB921C6271D700679E4F /* Triangle.swift */; };
 		48F0149C1C5440AA008F3377 /* LeapTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F0149B1C5440AA008F3377 /* LeapTest.swift */; };
 		48F0149E1C5440BA008F3377 /* Leap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F0149D1C5440BA008F3377 /* Leap.swift */; };
 		48F014A21C5444FF008F3377 /* HammingTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F014A11C5444FF008F3377 /* HammingTest.swift */; };
@@ -46,6 +48,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4852DB901C6271CA00679E4F /* TriangleTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TriangleTest.swift; sourceTree = "<group>"; };
+		4852DB921C6271D700679E4F /* Triangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Triangle.swift; path = ../triangle/Triangle.swift; sourceTree = "<group>"; };
 		48F0149B1C5440AA008F3377 /* LeapTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LeapTest.swift; path = helloWorldTest/LeapTest.swift; sourceTree = "<group>"; };
 		48F0149D1C5440BA008F3377 /* Leap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Leap.swift; path = helloWorldTest/Leap.swift; sourceTree = "<group>"; };
 		48F014A11C5444FF008F3377 /* HammingTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingTest.swift; sourceTree = "<group>"; };
@@ -97,6 +101,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4852DB8F1C6271A500679E4F /* Triangle */ = {
+			isa = PBXGroup;
+			children = (
+				4852DB921C6271D700679E4F /* Triangle.swift */,
+				4852DB901C6271CA00679E4F /* TriangleTest.swift */,
+			);
+			name = Triangle;
+			sourceTree = "<group>";
+		};
 		48F0149F1C5443C2008F3377 /* Leap */ = {
 			isa = PBXGroup;
 			children = (
@@ -253,6 +266,7 @@
 		9DCE80661BA746730024C69D = {
 			isa = PBXGroup;
 			children = (
+				4852DB8F1C6271A500679E4F /* Triangle */,
 				48F014EB1C57E002008F3377 /* Meetup */,
 				48F014E61C57D6AC008F3377 /* Gigasecond */,
 				48F014E11C574104008F3377 /* SpaceAge */,
@@ -362,6 +376,7 @@
 				48F0149C1C5440AA008F3377 /* LeapTest.swift in Sources */,
 				48F014A21C5444FF008F3377 /* HammingTest.swift in Sources */,
 				48F014E51C574121008F3377 /* SpaceAge.swift in Sources */,
+				4852DB931C6271D700679E4F /* Triangle.swift in Sources */,
 				48F014D11C56FB3B008F3377 /* Allergies.swift in Sources */,
 				9DCE80801BA747050024C69D /* helloWorldTest.swift in Sources */,
 				48F014B81C55AF7A008F3377 /* NucleotideCount.swift in Sources */,
@@ -382,6 +397,7 @@
 				48F014D41C570651008F3377 /* AccumulateTest.swift in Sources */,
 				48F014A91C544D21008F3377 /* WordCount.swift in Sources */,
 				48F014C01C55CCF4008F3377 /* GradeSchoolTest.swift in Sources */,
+				4852DB911C6271CA00679E4F /* TriangleTest.swift in Sources */,
 				48F014BB1C55B5B9008F3377 /* PhoneNumberTest.swift in Sources */,
 				48F014B61C55AF47008F3377 /* NucleotideCountTest.swift in Sources */,
 				48F014CC1C5699F3008F3377 /* PerfectNumbers.swift in Sources */,
