@@ -98,5 +98,84 @@
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BinaryTest.swift"
+            timestampString = "476571424.104752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "testBinary1isDecimal1()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.BinaryTests.testBinary1isDecimal1 (helloWorldTest.BinaryTests)() -&gt; ()"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/BinaryTest.swift"
+                  timestampString = "476571559.568669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.BinaryTests.(testBinary1isDecimal1 (helloWorldTest.BinaryTests) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/BinaryTest.swift"
+                  timestampString = "476571559.569014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.BinaryTests.(testBinary1isDecimal1 (helloWorldTest.BinaryTests) -&gt; () -&gt; ()).(implicit closure #2)"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/BinaryTest.swift"
+                  timestampString = "476571559.569247"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BinaryTest.swift"
+            timestampString = "476571503.054607"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "testBinary1isDecimal1()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

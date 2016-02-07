@@ -9,6 +9,12 @@
 /* Begin PBXBuildFile section */
 		4852DB911C6271CA00679E4F /* TriangleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB901C6271CA00679E4F /* TriangleTest.swift */; };
 		4852DB931C6271D700679E4F /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB921C6271D700679E4F /* Triangle.swift */; };
+		4852DB961C64539500679E4F /* ScrabbleScoreTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB951C64539500679E4F /* ScrabbleScoreTest.swift */; };
+		4852DB981C6453B500679E4F /* ScrabbleScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB971C6453B500679E4F /* ScrabbleScore.swift */; };
+		4852DB9B1C645C4900679E4F /* RomanNumeralsTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB9A1C645C4900679E4F /* RomanNumeralsTest.swift */; };
+		4852DB9D1C645C5C00679E4F /* RomanNumerals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4852DB9C1C645C5C00679E4F /* RomanNumerals.swift */; };
+		48C102101C67E057005216A0 /* BinaryTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C1020F1C67E057005216A0 /* BinaryTest.swift */; };
+		48C102121C67E065005216A0 /* Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C102111C67E065005216A0 /* Binary.swift */; };
 		48F0149C1C5440AA008F3377 /* LeapTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F0149B1C5440AA008F3377 /* LeapTest.swift */; };
 		48F0149E1C5440BA008F3377 /* Leap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F0149D1C5440BA008F3377 /* Leap.swift */; };
 		48F014A21C5444FF008F3377 /* HammingTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F014A11C5444FF008F3377 /* HammingTest.swift */; };
@@ -50,6 +56,12 @@
 /* Begin PBXFileReference section */
 		4852DB901C6271CA00679E4F /* TriangleTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TriangleTest.swift; sourceTree = "<group>"; };
 		4852DB921C6271D700679E4F /* Triangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Triangle.swift; path = ../triangle/Triangle.swift; sourceTree = "<group>"; };
+		4852DB951C64539500679E4F /* ScrabbleScoreTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrabbleScoreTest.swift; sourceTree = "<group>"; };
+		4852DB971C6453B500679E4F /* ScrabbleScore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScrabbleScore.swift; path = "../scrabble-score/ScrabbleScore.swift"; sourceTree = "<group>"; };
+		4852DB9A1C645C4900679E4F /* RomanNumeralsTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RomanNumeralsTest.swift; sourceTree = "<group>"; };
+		4852DB9C1C645C5C00679E4F /* RomanNumerals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RomanNumerals.swift; path = "../roman-numerals/RomanNumerals.swift"; sourceTree = "<group>"; };
+		48C1020F1C67E057005216A0 /* BinaryTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BinaryTest.swift; sourceTree = "<group>"; };
+		48C102111C67E065005216A0 /* Binary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Binary.swift; path = ../binary/Binary.swift; sourceTree = "<group>"; };
 		48F0149B1C5440AA008F3377 /* LeapTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LeapTest.swift; path = helloWorldTest/LeapTest.swift; sourceTree = "<group>"; };
 		48F0149D1C5440BA008F3377 /* Leap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Leap.swift; path = helloWorldTest/Leap.swift; sourceTree = "<group>"; };
 		48F014A11C5444FF008F3377 /* HammingTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingTest.swift; sourceTree = "<group>"; };
@@ -108,6 +120,33 @@
 				4852DB901C6271CA00679E4F /* TriangleTest.swift */,
 			);
 			name = Triangle;
+			sourceTree = "<group>";
+		};
+		4852DB941C64537D00679E4F /* ScrabbleScore */ = {
+			isa = PBXGroup;
+			children = (
+				4852DB951C64539500679E4F /* ScrabbleScoreTest.swift */,
+				4852DB971C6453B500679E4F /* ScrabbleScore.swift */,
+			);
+			name = ScrabbleScore;
+			sourceTree = "<group>";
+		};
+		4852DB991C645C3400679E4F /* RomanNumerals */ = {
+			isa = PBXGroup;
+			children = (
+				4852DB9C1C645C5C00679E4F /* RomanNumerals.swift */,
+				4852DB9A1C645C4900679E4F /* RomanNumeralsTest.swift */,
+			);
+			name = RomanNumerals;
+			sourceTree = "<group>";
+		};
+		48C1020E1C67E046005216A0 /* Binary */ = {
+			isa = PBXGroup;
+			children = (
+				48C102111C67E065005216A0 /* Binary.swift */,
+				48C1020F1C67E057005216A0 /* BinaryTest.swift */,
+			);
+			name = Binary;
 			sourceTree = "<group>";
 		};
 		48F0149F1C5443C2008F3377 /* Leap */ = {
@@ -266,6 +305,9 @@
 		9DCE80661BA746730024C69D = {
 			isa = PBXGroup;
 			children = (
+				48C1020E1C67E046005216A0 /* Binary */,
+				4852DB991C645C3400679E4F /* RomanNumerals */,
+				4852DB941C64537D00679E4F /* ScrabbleScore */,
 				4852DB8F1C6271A500679E4F /* Triangle */,
 				48F014EB1C57E002008F3377 /* Meetup */,
 				48F014E61C57D6AC008F3377 /* Gigasecond */,
@@ -377,6 +419,7 @@
 				48F014A21C5444FF008F3377 /* HammingTest.swift in Sources */,
 				48F014E51C574121008F3377 /* SpaceAge.swift in Sources */,
 				4852DB931C6271D700679E4F /* Triangle.swift in Sources */,
+				48C102121C67E065005216A0 /* Binary.swift in Sources */,
 				48F014D11C56FB3B008F3377 /* Allergies.swift in Sources */,
 				9DCE80801BA747050024C69D /* helloWorldTest.swift in Sources */,
 				48F014B81C55AF7A008F3377 /* NucleotideCount.swift in Sources */,
@@ -388,15 +431,19 @@
 				48F014EA1C57D6CD008F3377 /* Gigasecond.swift in Sources */,
 				9DCE80881BA748820024C69D /* helloWorld.swift in Sources */,
 				48F014B11C55A71C008F3377 /* AnagramTest.swift in Sources */,
+				4852DB9B1C645C4900679E4F /* RomanNumeralsTest.swift in Sources */,
 				48F014A71C544D0C008F3377 /* WordCountTest.swift in Sources */,
 				48F014AE1C54589F008F3377 /* Etl.swift in Sources */,
 				48F0149E1C5440BA008F3377 /* Leap.swift in Sources */,
 				48F014A41C544524008F3377 /* Hamming.swift in Sources */,
+				4852DB9D1C645C5C00679E4F /* RomanNumerals.swift in Sources */,
 				48F014D91C57328E008F3377 /* SumOfMultiplesTest.swift in Sources */,
 				48F014AC1C54588F008F3377 /* EtlTest.swift in Sources */,
 				48F014D41C570651008F3377 /* AccumulateTest.swift in Sources */,
 				48F014A91C544D21008F3377 /* WordCount.swift in Sources */,
 				48F014C01C55CCF4008F3377 /* GradeSchoolTest.swift in Sources */,
+				48C102101C67E057005216A0 /* BinaryTest.swift in Sources */,
+				4852DB981C6453B500679E4F /* ScrabbleScore.swift in Sources */,
 				4852DB911C6271CA00679E4F /* TriangleTest.swift in Sources */,
 				48F014BB1C55B5B9008F3377 /* PhoneNumberTest.swift in Sources */,
 				48F014B61C55AF47008F3377 /* NucleotideCountTest.swift in Sources */,
@@ -407,6 +454,7 @@
 				48F014DE1C5739FF008F3377 /* TwelveDaysTest.swift in Sources */,
 				48F014D61C570660008F3377 /* Accumulate.swift in Sources */,
 				48F014E31C574115008F3377 /* SpaceAgeTest.swift in Sources */,
+				4852DB961C64539500679E4F /* ScrabbleScoreTest.swift in Sources */,
 				48F014ED1C57E011008F3377 /* MeetupTest.swift in Sources */,
 				48F014C21C55CD02008F3377 /* GradeSchool.swift in Sources */,
 				48F014CA1C5699E0008F3377 /* PerfectNumbersTest.swift in Sources */,
