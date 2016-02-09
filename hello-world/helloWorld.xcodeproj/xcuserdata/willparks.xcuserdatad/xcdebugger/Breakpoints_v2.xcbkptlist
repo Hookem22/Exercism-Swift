@@ -177,5 +177,68 @@
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrimeFactorsTest.swift"
+            timestampString = "476644607.386379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "test4()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.PrimeFactorsTest.test4 (helloWorldTest.PrimeFactorsTest)() -&gt; ()"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/PrimeFactorsTest.swift"
+                  timestampString = "476644614.837113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.PrimeFactorsTest.(test4 (helloWorldTest.PrimeFactorsTest) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/PrimeFactorsTest.swift"
+                  timestampString = "476644614.837493"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helloWorldTest.PrimeFactorsTest.(test4 (helloWorldTest.PrimeFactorsTest) -&gt; () -&gt; ()).(implicit closure #2)"
+                  moduleName = "helloWorldTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/willparks/exercism/swift/hello-world/PrimeFactorsTest.swift"
+                  timestampString = "476644614.838273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
